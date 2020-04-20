@@ -5,5 +5,5 @@ This is the code to reproduce the figures of the paper
 
 Qiongxiu Li, Richard Heusdens, Mads Græsbøll Christensen
 
-#How to run
+# How to run
 Download the zip file and run test_all.m file. 
